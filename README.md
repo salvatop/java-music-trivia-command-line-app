@@ -10,5 +10,5 @@ Features
 - Only the manager has the option to manage the Trivia application, using a special code that is to give access to the administrator to add/remove/modify questions and/or the answers.
 
 
-![screenshoot2](images/screenshot2.png)
-![screenshoot1](images/screenshot1.png)
+![screenshoot2](images/screenshoot2.png)
+![screenshoot1](images/screenshoot1.png)
